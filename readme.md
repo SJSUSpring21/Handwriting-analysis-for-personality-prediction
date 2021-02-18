@@ -13,7 +13,6 @@
 The human face is an important part of an individual’s body and it particularly plays a significant role in knowing a person’s state of mind. This eliminates the dreary and tedious task of manually isolating or grouping songs into various records and helps in generating an appropriate playlist based on an individual’s emotional features.
 People tend to listen to music based on their mood and interests. One can create an application to suggest songs for users based on their mood by capturing facial expressions.
 Computer vision is an interdisciplinary field that helps convey a high-level understanding of digital images or videos to computers. computer vision components can be used to determine the user’s emotion through facial expressions.
-There are these APIs too that I found interesting and useful, although I didn’t work on these but attaching here with a hope that these will gonna help you.	
 
 	
 
