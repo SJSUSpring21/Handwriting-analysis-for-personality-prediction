@@ -1,4 +1,4 @@
-Project Ideas 
+## Project Ideas 
 
 1.	Facial Detection 
 2.	Handwriting Analysis
@@ -6,7 +6,7 @@ Project Ideas
 4.	Justice on Wheels 
 
 
-Description
+## Description
 
 1.	Facial recognition to detect mood and suggest songs accordingly.
 
