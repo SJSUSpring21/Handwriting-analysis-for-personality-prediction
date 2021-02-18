@@ -10,9 +10,7 @@
 
 1.	Facial recognition to detect mood and suggest songs accordingly.
 
-The human face is an important part of an individual’s body and it particularly plays a significant role in knowing a person’s state of mind. This eliminates the dreary and tedious task of manually isolating or grouping songs into various records and helps in generating an appropriate playlist based on an individual’s emotional features.
-People tend to listen to music based on their mood and interests. One can create an application to suggest songs for users based on their mood by capturing facial expressions.
-Computer vision is an interdisciplinary field that helps convey a high-level understanding of digital images or videos to computers. computer vision components can be used to determine the user’s emotion through facial expressions.
+Listening to music has become easier than ever with technology removing friction from the experience. However, in removing barriers to music, technology has overwhelmed us. When you want to listen to music, you must sort through millions and millions of songs, artists and genres. And most commonly, you’ll be indecisive. We want to remove all of that. So the proposition: A platform to detect an individual’s mood and play songs according to the person’s mood. Mood detection for this purpose would be done through facial feature recognition, text based and voice based.
 
 	
 
