@@ -1,6 +1,6 @@
 ## Team 19 
 
-#### Project idea: Handwriting Analysis for personality prediction.
+#### Project idea: Handwriting Analysis for personality prediction. - Approved
 
 #### Problem statement:
 Graphology is the art of studying and analyzing handwriting – A scientific method used to determine a person’s personality, by evaluating various features from the handwriting. To make this method more efficient and reliable, machines can be introduced, to perform FEATURE EXTRACTION and map various personality traits accordingly. This compliments the graphologists, and also increases the speed of analyzing handwritten samples. The basic idea of the project is to analyze handwriting samples, and detect a person’s personality, through it. The user should be able to provide his/her handwriting sample in an image format to the application, then the application would internally perform Machine Learning, in order to give accurate results of personality traits of the user. The results would be based on a few rules of graphology, which are followed, in order to classify the training dataset.
