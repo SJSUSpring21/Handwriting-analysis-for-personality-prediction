@@ -21,4 +21,7 @@ Graphologists and psychologists
 
 #### Dataset links:
 
+#### Project Architecture Diagram:
+![c193e538-5ed5-4188-a8e4-a2146d3b4220](https://user-images.githubusercontent.com/72815931/110429357-a72e2600-805f-11eb-9703-4ccbf71789c1.jpg)
+
  
